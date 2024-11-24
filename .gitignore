@@ -1,0 +1,5 @@
+assignment/__pycache__/*
+assignment/.pytest_cache/
+assignment/.pytest_cache/*
+__pycache__/
+.DS_Store
